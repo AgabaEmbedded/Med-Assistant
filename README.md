@@ -3,6 +3,9 @@ Welcome to the official repository of MED ASSISTANT. MED ASSISTANT is a bilingua
 MED ASSISTANT is also equipped with a chatbot for enquiries and to clearify all medical confusion for medical student, medical health workers and all individual interested in medical information.
 
 ## STRUCTURE
+/frontend: this contains code for the front end interface
+/backend: this contains backend code for the platform
+
 
 ## PURPOSE
 This GitHub repository's main goal is to act as the focal point for the creation, documentation, and cooperation of an AI-powered platform that eases the process of gathering medical history and helps healthcare professionals with diagnosis.
