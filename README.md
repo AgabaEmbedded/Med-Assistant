@@ -3,8 +3,8 @@ Welcome to the official repository of MED ASSISTANT. MED ASSISTANT is a bilingua
 MED ASSISTANT is also equipped with a chatbot for enquiries and to clearify all medical confusion for medical student, medical health workers and all individual interested in medical information.
 
 ## STRUCTURE
-/frontend: this contains code for the front end interface
-/backend: this contains backend code for the platform
+frontend/: this contains code for the front end interface
+backend/: this contains backend code for the platform
 
 
 ## PURPOSE
