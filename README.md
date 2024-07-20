@@ -32,23 +32,37 @@ Leverage translation model to incorporte bilingual feature
 
 ## Getting Started
 
-First, run the development server:
+Let's get the project running locally on your machine.
+
+### 0. Prerequisites
+
+To run this project you need the following installed:
+
+- [Node 18.17](https://nodejs.org/) or later
+- [PNPM](https://pnpm.io/installation)
+
+### 1. Installation
+
+Clone the project:
+
+```
+git clone https://github.com/AgabaEmbedded/Med-Assistant.git
+```
+
+Navigate into the project directory and install its dependencies:
+
+```
+cd Med-Assistant/
+pnpm install
+```
+
+Run the development server:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
 pnpm dev
-# or
-bun dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
 
 ## Learn More
 
@@ -56,5 +70,3 @@ To learn more about Next.js, take a look at the following resources:
 
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
