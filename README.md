@@ -8,8 +8,8 @@ MED ASSISTANT is also equipped with a chatbot for enquiries and to clearify all 
 
 ## STRUCTURE
 
-- `Frontend/`: this contains code for the front end of the platform
-- `Backend/`: this contains backend code for the platform
+- `App/`
+- `Public/`
 
 ## PURPOSE
 
